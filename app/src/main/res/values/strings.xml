@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rik Masters Test</string>
+
+    // MainScreen
+    <string name="title">Мой дом</string>
+    <string name="cameras">Камеры</string>
+    <string name="doors">Двери</string>
+
+    // Modes
+    <string name="online">В сети</string>
+
+    // Dialogs
+    <string name="enter_new_name">Введите новое название</string>
+    <string name="accept">Принять</string>
+    <string name="cancel">Отменить</string>
+    <string name="not_empty">Новое название не должно быть пустым</string>
+    <string name="video_not_realized">Функция воспроизведения видео ещё не реализована</string>
+</resources>

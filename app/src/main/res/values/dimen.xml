@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">12.dp</dimen>
+    <dimen name="global_padding">21.dp</dimen>
+    <dimen name="card_elevation">3.dp</dimen>
+    <dimen name="card_interval">19.dp</dimen>
+    <dimen name="half_padding">5.dp</dimen>
+    <dimen name="single_padding">10.dp</dimen>
+    <dimen name="double_padding">20.dp</dimen>
+</resources>
